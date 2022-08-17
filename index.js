@@ -83,8 +83,6 @@ function game() {
     play(currentQuestion.question, currentQuestion.answer)
   }
 }
-
-
 welcome();
 game();
 
