@@ -2,7 +2,6 @@
 var readlineSync = require("readline-sync");
 
 var score = 0;
-
 // array of objects
 var questions = [{
   question: "Who owns MARVEL?  ",
